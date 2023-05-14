@@ -1,0 +1,6 @@
+﻿  Main.cpp
+  Trig.cpp
+  Generating Code...
+C:\Users\secre\source\repos\Evaluating Power Series\Evaluating Power Series\Trig.cpp(27): warning C4715: 'Trig::range': not all control paths return a value
+C:\Users\secre\source\repos\Evaluating Power Series\Evaluating Power Series\Trig.cpp(427): warning C4715: 'Trig::continue_exit_program': not all control paths return a value
+  Evaluating Power Series.vcxproj -> C:\Users\secre\source\repos\Evaluating Power Series\x64\Debug\Evaluating Power Series.exe
